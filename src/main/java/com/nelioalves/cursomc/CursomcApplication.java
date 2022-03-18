@@ -3,7 +3,7 @@ package com.nelioalves.cursomc;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-// 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
+// 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
 
 @SpringBootApplication
 public class CursomcApplication {
